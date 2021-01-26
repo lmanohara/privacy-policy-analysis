@@ -3,7 +3,7 @@ This project includes Python scripts for analysis privacy policy documents. The 
 
 ## NLP Text Analaysis Methods
 * Topic modeling 
-    - LDA.
+    - Latent Dirichlet Allocation (LDA).
 * Information extraction
     - Semantic Role Labeling (SRL).
     - Dependency Parsing.
