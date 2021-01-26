@@ -13,5 +13,4 @@ This project includes Python scripts for analysis privacy policy documents. The 
     - Universal Sentence Encodrder.
     - Bidirectional Encoder Representations from Transformers (BERT).
     - Universal Language Model Fine-tuning (ULMFiT).
-    - Recurrent Neural Network (RNN) based text classifier.
     - Linear Text Classification Models.
