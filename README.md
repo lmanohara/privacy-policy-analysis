@@ -13,4 +13,5 @@ This project includes Python scripts for analysis privacy policy documents. The 
     - Universal Sentence Encodrder.
     - Bidirectional Encoder Representations from Transformers (BERT).
     - Universal Language Model Fine-tuning (ULMFiT).
-    - Linear Text Classification Models.
+    - Support Vector Machine (SVM).
+    - Naive Bayes.
